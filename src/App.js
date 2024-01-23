@@ -52,12 +52,12 @@ export default function App() {
 function Header() {
   return (
     <div className="header">
-      <h1>Iga Woziwoda</h1>
+      <h1>Iga W.</h1>
 
       <ul className="info-list">
         <li>
           <img src={phoneIcon} alt="p" />
-          +48 798-628-311
+          +48 xxx-xxx-311
         </li>
         <li>
           <img src={emailIcon} alt="e" />
